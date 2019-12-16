@@ -1,0 +1,11 @@
+c:\Users\Newforce41\Workspace\Csharp\bangazon\book1\interfaces\obj\Debug\netcoreapp3.0\interfaces.csprojAssemblyReference.cache
+c:\Users\Newforce41\Workspace\Csharp\bangazon\book1\interfaces\obj\Debug\netcoreapp3.0\interfaces.AssemblyInfoInputs.cache
+c:\Users\Newforce41\Workspace\Csharp\bangazon\book1\interfaces\obj\Debug\netcoreapp3.0\interfaces.AssemblyInfo.cs
+c:\Users\Newforce41\Workspace\Csharp\bangazon\book1\interfaces\bin\Debug\netcoreapp3.0\interfaces.exe
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\interfaces\bin\Debug\netcoreapp3.0\interfaces.deps.json
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\interfaces\bin\Debug\netcoreapp3.0\interfaces.runtimeconfig.json
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\interfaces\bin\Debug\netcoreapp3.0\interfaces.runtimeconfig.dev.json
+c:\Users\Newforce41\Workspace\Csharp\bangazon\book1\interfaces\bin\Debug\netcoreapp3.0\interfaces.dll
+c:\Users\Newforce41\Workspace\Csharp\bangazon\book1\interfaces\bin\Debug\netcoreapp3.0\interfaces.pdb
+c:\Users\Newforce41\Workspace\Csharp\bangazon\book1\interfaces\obj\Debug\netcoreapp3.0\interfaces.dll
+c:\Users\Newforce41\Workspace\Csharp\bangazon\book1\interfaces\obj\Debug\netcoreapp3.0\interfaces.pdb
